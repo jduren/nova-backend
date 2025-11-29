@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+requests
+pydantic
+openai>=1.30.0
